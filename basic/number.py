@@ -1,0 +1,6 @@
+print (5 + 6)
+print ("5" + "6")
+print (3.55 * 8.0922)
+print (5 + 5)
+print (int(5.6) + int(7.5))
+print (int("6"))
